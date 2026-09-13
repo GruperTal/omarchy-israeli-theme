@@ -22,11 +22,7 @@ omarchy theme install https://github.com/GruperTal/omarchy-israeli-theme
 - [Kachol Lavan](backgrounds/4-kachol-lavan.jpg): a wall of neon flags, a few of them flickering out
 - [Silicon Wadi](backgrounds/5-silicon-wadi.jpg): the star wired into a circuit board
 
-The wallpapers and the lock screen logo are drawn in code. Run
-`python3 wallpapers.py` to render them again (it needs `rsvg-convert`,
-ImageMagick and the Noto Hebrew fonts).
-
-The heraldic lion ([`lion.svg`](lion.svg)) is
+The lion is traced from
 [Lion rampant element](https://commons.wikimedia.org/wiki/File:Lion_rampant_element.svg)
 by Inductiveload, after Jiří Louda, from Wikimedia Commons. It is in the public domain.
 
