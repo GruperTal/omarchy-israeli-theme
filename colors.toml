@@ -1,0 +1,32 @@
+# Israeli — ישראלי. Tekhelet night over the Mediterranean, Jerusalem gold,
+# sabra green, bougainvillea, and a flag-striped window border.
+# Unlisted keys (bright_*) are derived by Omarchy.
+mode = "dark"
+
+accent = "#3d7eff"               # tekhelet, flag blue #0038b8 lifted to 5:1 on the background
+selection = "#1b3a8a"
+selection_foreground = "#ffffff"
+muted = "#6e7ca6"
+
+background = "#070d24"           # Tel Aviv midnight
+dark_background = "#040818"
+darker_background = "#02040f"
+lighter_background = "#111c3f"
+
+foreground = "#e9eef9"           # flag white
+dark_foreground = "#8a97b8"
+light_foreground = "#f3f5fb"
+bright_foreground = "#ffffff"
+
+red = "#ff4b5c"                  # rimon (pomegranate)
+green = "#8fd14f"                # sabra cactus
+yellow = "#f5c451"               # Yerushalayim shel zahav
+orange = "#ff8a3d"               # Negev sunset
+blue = "#3d7eff"                 # tekhelet
+magenta = "#d96bff"              # bougainvillea
+cyan = "#2de2d0"                 # Eilat reef
+brown = "#c9a46c"                # Jerusalem stone
+
+# Blue / white / blue, like the flag. Also drives shell popups, notifications and the lock screen
+hyprland_active_border = "rgba(3d7effff) rgba(ffffffff) rgba(3d7effff) 90deg"
+hyprland_inactive_border = "rgba(1b2a5a99)"
